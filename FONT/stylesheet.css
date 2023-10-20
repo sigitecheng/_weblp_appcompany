@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Li Ador Noirrit';
+    src: url('LiAdorNoirrit.eot');
+    src: url('LiAdorNoirrit.eot?#iefix') format('embedded-opentype'),
+        url('LiAdorNoirrit.woff2') format('woff2'),
+        url('LiAdorNoirrit.woff') format('woff'),
+        url('LiAdorNoirrit.svg#LiAdorNoirrit') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
